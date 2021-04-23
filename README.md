@@ -295,18 +295,11 @@ MIT
 
 ## Credits
 
-Made with ❤️❤️ . 
-
-I am always happy to hear your feedback [@Twitter](https://twitter.com/toomavic) 
+I am always happy to hear your feedback 
 
 Enjoy!
 
 
-
-    ░░░░░░░░░░░░░▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄ 
-    ░░░░░░░░░░█░░░░░░▀█▄▀▄▀██████░░░▀█▄▀▄▀██████ 
-    ░░░░░░░░ ░░░░░░░░░░▀█▄█▄███▀░░░░░░▀█▄█▄███▀░
-
-   All copyrights reserved | 2018-2020
+   All copyrights reserved | 2018-2021
 
 
